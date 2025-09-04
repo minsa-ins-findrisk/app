@@ -40413,9 +40413,9 @@ i=A.cE(l.a.a)
 i.toString
 p.e=25*(h/100)*(i/100)
 if(a<18.5)p.r="Delgadez"
-else if(a>=18.5&&a<=25)p.r="Peso Saludable"
-else if(a>25&&a<=30)p.r="Sobrepeso"
-else if(a>30)p.r="Obesidad"}else{i=A.cE(h.a)
+else if(a>=18.5&&a<25)p.r="Peso Saludable"
+else if(a>=25&&a<30)p.r="Sobrepeso"
+else if(a>=30)p.r="Obesidad"}else{i=A.cE(h.a)
 i.toString
 h=A.cE(l.a.a)
 h.toString
@@ -40427,8 +40427,8 @@ i.toString
 p.e=28*(h/100)*(i/100)
 if(a<23)p.r="Delgadez"
 else if(a>=23&&a<=28)p.r="Peso Saludable"
-else if(a>28&&a<=32)p.r="Sobrepeso"
-else if(a>32)p.r="Obesidad"}A.aCx(new A.akh(p,b,a),q.c,t.N)
+else if(a>=28&&a<32)p.r="Sobrepeso"
+else if(a>=32)p.r="Obesidad"}A.aCx(new A.akh(p,b,a),q.c,t.N)
 i=q.d.a
 h=$.auX
 h.toString
@@ -40852,9 +40852,9 @@ i=A.cE(l.a.a)
 i.toString
 p.e=25*(h/100)*(i/100)
 if(a<18.5)p.r="Delgadez"
-else if(a>=18.5&&a<=25)p.r="Peso Saludable"
-else if(a>25&&a<=30)p.r="Sobrepeso"
-else if(a>30)p.r="Obesidad"}else{i=A.cE(h.a)
+else if(a>=18.5&&a<25)p.r="Peso Saludable"
+else if(a>=25&&a<30)p.r="Sobrepeso"
+else if(a>=30)p.r="Obesidad"}else{i=A.cE(h.a)
 i.toString
 h=A.cE(l.a.a)
 h.toString
@@ -40865,9 +40865,9 @@ i=A.cE(l.a.a)
 i.toString
 p.e=28*(h/100)*(i/100)
 if(a<23)p.r="Delgadez"
-else if(a>=23&&a<=28)p.r="Peso Saludable"
-else if(a>28&&a<=32)p.r="Sobrepeso"
-else if(a>32)p.r="Obesidad"}A.aCx(new A.ajG(p,b,a),q.c,t.N)
+else if(a>=23&&a<28)p.r="Peso Saludable"
+else if(a>=28&&a<32)p.r="Sobrepeso"
+else if(a>=32)p.r="Obesidad"}A.aCx(new A.ajG(p,b,a),q.c,t.N)
 i=q.d.a
 h=$.aCv
 h.toString
