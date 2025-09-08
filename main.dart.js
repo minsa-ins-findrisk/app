@@ -40462,7 +40462,7 @@ return A.J($async$$0,r)},
 $S:8}
 A.akh.prototype={
 $1(a){var s=null,r=A.eb(A.as("Puntaje: "+B.i.a2(this.b,1),s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),q=this.a,p=q.a,o=q.d
-return A.avK(p,A.dB(A.b([A.Mi(s,s,s,B.bg,s,s,!0,s,A.ci(A.b([B.yx,A.ci(s,A.aX(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),o)],t.VO),B.yz,s),B.af,s,s,B.a0,B.ar),A.W(s,15,s),A.as(q.c,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.b,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.r,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.W(s,15,s),A.as("Peso Deseado: "+B.d.a2(q.f,1)+" kg - "+B.d.a2(q.e,1)+" kg",s,s,s,s,s,s),A.W(s,15,s),A.as("Indice de Masa Corporal (kg/m\xb2): "+B.d.a2(this.c,1),s,s,s,s,s,s)],t.D),B.P,B.T,B.bR),r)},
+return A.avK(p,A.dB(A.b([A.Mi(s,s,s,B.bg,s,s,!0,s,A.ci(A.b([B.yx,A.ci(s,A.aX(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),o)],t.VO),B.yz,s),B.af,s,s,B.a0,B.ar),A.W(s,15,s),A.as(q.c,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.b,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.r,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.W(s,15,s),A.as("Indice de Masa Corporal (kg/m\xb2): "+B.d.a2(this.c,1),s,s,s,s,s,s),A.W(s,15,s),A.as("Peso Deseado: "+B.d.a2(q.f,1)+" kg - "+B.d.a2(q.e,1)+" kg",s,s,s,s,s,s)],t.D),B.P,B.T,B.bR),r)},
 $S:155}
 A.zv.prototype={
 af(){return new A.RE()}}
@@ -40901,7 +40901,7 @@ return A.J($async$$0,r)},
 $S:8}
 A.ajG.prototype={
 $1(a){var s=null,r=A.eb(A.as("Puntaje: "+B.i.a2(this.b,1),s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),q=this.a,p=q.a,o=q.d
-return A.avK(p,A.dB(A.b([A.Mi(s,s,s,B.bg,s,s,!0,s,A.ci(A.b([B.yx,A.ci(s,A.aX(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),o)],t.VO),B.yz,s),B.af,s,s,B.a0,B.ar),A.W(s,15,s),A.as(q.c,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.b,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.r,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.W(s,15,s),A.as("Peso Deseado: "+B.d.a2(q.f,1)+" kg - "+B.d.a2(q.e,1)+" kg",s,s,s,s,s,s),A.W(s,15,s),A.as("Indice de Masa Corporal (kg/m\xb2): "+B.d.a2(this.c,1),s,s,s,s,s,s)],t.D),B.P,B.T,B.bR),r)},
+return A.avK(p,A.dB(A.b([A.Mi(s,s,s,B.bg,s,s,!0,s,A.ci(A.b([B.yx,A.ci(s,A.aX(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),o)],t.VO),B.yz,s),B.af,s,s,B.a0,B.ar),A.W(s,15,s),A.as(q.c,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.b,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.r,s),A.W(s,15,s),A.as(q.r,s,s,s,A.aX(s,s,s,s,s,s,s,s,s,s,s,15,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.W(s,15,s),A.as("Indice de Masa Corporal (kg/m\xb2): "+B.d.a2(this.c,1),s,s,s,s,s,s),A.W(s,15,s),A.as("Peso Deseado: "+B.d.a2(q.f,1)+" kg - "+B.d.a2(q.e,1)+" kg",s,s,s,s,s,s)],t.D),B.P,B.T,B.bR),r)},
 $S:155}
 A.zw.prototype={
 af(){return new A.RF()}}
